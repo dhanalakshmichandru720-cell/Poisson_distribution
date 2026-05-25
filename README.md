@@ -1,8 +1,6 @@
 # Fitting Poisson distribution
 # Procedure :
-
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
-
 # Program :
 ```
  import numpy as np
@@ -60,12 +58,6 @@ else:
 ```
 # Output : 
 <img width="977" height="433" alt="image" src="https://github.com/user-attachments/assets/0eb149c3-bbdb-46ba-905f-4e6719ffa049" />
-
-
-
-
-
-
 
 
 

@@ -3,10 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
-
 # Program :
 ```
  import numpy as np
@@ -64,9 +60,6 @@ else:
 ```
 # Output : 
 <img width="900" height="430" alt="image" src="https://github.com/user-attachments/assets/8cfed703-6b11-4016-ae08-8bd5e0073079" />
-
-
-
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 

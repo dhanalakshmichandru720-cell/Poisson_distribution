@@ -1,4 +1,4 @@
-Fitting Poisson distribution
+# Fitting Poisson distribution
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)

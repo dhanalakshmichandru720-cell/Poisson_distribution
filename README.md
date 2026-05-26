@@ -1,4 +1,21 @@
 # Fitting Poisson distribution
+## Aim :
+To fit poisson distribution for the arrival of objects per minute from the feeder
+
+Software required :
+Python and Visual component tool
+
+Theory:
+The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
+
+image
+
+Conditions for Poisson Distribution:
+
+An event can occur any number of times during a time period.
+Events occur independently. I
+The rate of occurrence is constant.
+The probability of an event occurring is proportional to the length of the time period.
 # Procedure :
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 # Program :
@@ -59,6 +76,7 @@ else:
 # Output : 
 <img width="977" height="433" alt="image" src="https://github.com/user-attachments/assets/0eb149c3-bbdb-46ba-905f-4e6719ffa049" />
 
+## RESULT
 
 
 
